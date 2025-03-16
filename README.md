@@ -1,0 +1,2 @@
+# RestAPISolution
+RestAssured Framework Structure
